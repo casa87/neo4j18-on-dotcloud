@@ -1,6 +1,9 @@
 Neo4J 1.8 On DotCloud (ALPHA)
 =========================
 
+**PLEASE DON'T USE THIS VERSION IT WAS A TEST BASED ON A SNAPSHOT**
+
+
 This is an **ALPHA** (i.e., not production-ready) Neo4j stack for DotCloud.
 
 based on https://raw.github.com/jpetazzo/neo4j-on-dotcloud-ALPHA
